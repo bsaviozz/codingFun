@@ -1,0 +1,53 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3%;
+}
+
+.main{
+    text-align: center;
+}
+
+.start{
+    margin-top: 20%;
+    font-size: 30px;
+    color:rgb(141, 141, 141);
+}
+
+.noshow{
+    margin-top: 15%;
+    visibility: hidden;
+}
+
+.tr{
+    font-size: 65px;
+    color:rgb(111, 111, 111);
+    
+}
+
+.og{
+    font-size: 25px;
+}
+
+.btn{
+  padding: 15px 20px;
+  font-size: 14px;
+  margin: 3px 10px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #d6b0ff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.btn:active {
+    background-color: #d6b0ff;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.clicked{
+    background-color: rgb(99, 104, 255);
+}
