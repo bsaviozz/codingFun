@@ -64,4 +64,9 @@ window.addEventListener('keydown', function(e) {
             break;
     }
 });
-//bbb
+/*changes to be made:
+    - numbers go on new line
+    - ctrl + c is copy 
+    - text instead of just letters?
+    - converter from binary/ascii
+*/
