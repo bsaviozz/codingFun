@@ -1,4 +1,4 @@
-# Learning how to code - my fun (and not so fun) projects
+# Learning how to code - my fun projects
 
 This repository is a mix of all the projects I did to learn how to code. 
 I find practical excercises very useful when self-teaching a new programming language.
